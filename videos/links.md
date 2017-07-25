@@ -8,3 +8,4 @@
 ## Module 2
 1. [Sinatra Forms](https://youtu.be/DXsqmUAhup8)
 2. [Sinatra AR Complex Forms](https://www.youtube.com/watch?v=x11CLkrbhTg) | [Code](https://github.com/learn-co-curriculum/sinatra-ar-forms-and-associations-web-062617)
+3. [Rails/AR Validations]() | [Code](https://github.com/learn-co-curriculum/web-062617-student-lister)
