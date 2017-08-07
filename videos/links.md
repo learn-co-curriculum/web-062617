@@ -11,3 +11,6 @@
 3. [Rails/AR Validations](https://www.youtube.com/watch?v=8vaBjtzz780) | [Code](https://github.com/learn-co-curriculum/web-062617-student-lister)
 4. [Rails Sessions](https://www.youtube.com/watch?v=1G_sMOqCqqY) | [Code](https://github.com/learn-co-curriculum/rails-sessions-lecture-web-062617)
 5. [Has Secure Password](https://www.youtube.com/watch?v=kDWUCsLZib0) | [Code](https://github.com/learn-co-curriculum/rails-sessions-lecture-web-062617)
+
+## Module 3
+1. [Intro JS](https://www.youtube.com/watch?v=hic_MZj_R64)
