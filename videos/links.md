@@ -15,3 +15,4 @@
 ## Module 3
 1. [Intro JS](https://www.youtube.com/watch?v=hic_MZj_R64)
 2. [Scope](https://youtu.be/zkTQckKV7ic)
+3. [Functional](https://youtu.be/d6j_xT9FCsU)
