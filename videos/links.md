@@ -13,6 +13,6 @@
 5. [Has Secure Password](https://www.youtube.com/watch?v=kDWUCsLZib0) | [Code](https://github.com/learn-co-curriculum/rails-sessions-lecture-web-062617)
 
 ## Module 3
-1. [Intro JS](https://www.youtube.com/watch?v=hic_MZj_R64)
-2. [Scope](https://youtu.be/zkTQckKV7ic)
-3. [Functional](https://youtu.be/d6j_xT9FCsU)
+1. [Introduction](https://www.youtube.com/watch?v=hic_MZj_R64)
+2. [Scope and Variables](https://youtu.be/zkTQckKV7ic)
+3. [Functional Programming in JavaScript](https://youtu.be/d6j_xT9FCsU)
