@@ -13,6 +13,10 @@
 5. [Has Secure Password](https://www.youtube.com/watch?v=kDWUCsLZib0) | [Code](https://github.com/learn-co-curriculum/rails-sessions-lecture-web-062617)
 
 ## Module 3
-1. [Introduction](https://www.youtube.com/watch?v=hic_MZj_R64)
-2. [Scope and Variables](https://youtu.be/zkTQckKV7ic)
-3. [Functional Programming in JavaScript](https://youtu.be/d6j_xT9FCsU)
+1. [Introduction](https://www.youtube.com/watch?v=hic_MZj_R64) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/01-intro.md)
+2. [Scope and Variables](https://youtu.be/zkTQckKV7ic) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/02-scope.md)
+3. Loops (`No video 😖`) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/03-loops.js)
+3. [Functional Programming in JavaScript](https://youtu.be/d6j_xT9FCsU) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/04-functional.js)
+4. [This, Constructors & Arrow Function Review](https://www.youtube.com/watch?v=TNzduD29A0g&index=4&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/05-this.md)
+5. [Creating Objects p1](https://www.youtube.com/watch?v=a8LYqXAiBvs&index=5&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/06-object-oriented.js)
+6. [Creating Objects p2](https://youtu.be/oohY3qLSLh8) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/07-object-oriented-2.js)
