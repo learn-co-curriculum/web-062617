@@ -20,3 +20,8 @@
 4. [This, Constructors & Arrow Function Review](https://www.youtube.com/watch?v=TNzduD29A0g&index=4&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/05-this.md)
 5. [Creating Objects p1](https://www.youtube.com/watch?v=a8LYqXAiBvs&index=5&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/06-object-oriented.js)
 6. [Creating Objects p2](https://youtu.be/oohY3qLSLh8) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/07-object-oriented-2.js)
+7. [DOM](https://www.youtube.com/watch?v=iPpMuVqlYOQ&index=7&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC&t=1729s) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/08-dom.js)
+8. [App Patterns I – TaskLister Intro](https://www.youtube.com/watch?v=387LQ8GuiCQ&index=8&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC) | [Code](https://github.com/learn-co-students/web-062617/blob/master/15-intro-js/09-js-mvc.js)
+9. [App Patterns II](https://www.youtube.com/watch?v=fp7SsYM2unw&index=9&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC) | [Code]()
+10. [XHR and a little AJAX](https://www.youtube.com/watch?v=t5nfWKMIhmE&index=10&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC) | [Code](https://github.com/learn-co-students/web-062617/tree/master/16-tasklister)
+11. [Promises](https://www.youtube.com/watch?v=dDXA61B9kfk&index=11&list=PLc6AmvC5Zybze6ScQ1aVT3hnrXIaL_sOC)
